@@ -1,6 +1,6 @@
 ﻿using MahApps.Metro.Controls;
 
-namespace Syne.View
+namespace Syne.ViewModel
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

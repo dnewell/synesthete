@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Syne.View
+namespace Syne.IO
 {
     /// <summary>
     /// Interaction logic for App.xaml
